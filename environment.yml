@@ -1,0 +1,7 @@
+name: phys191-env
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
